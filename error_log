@@ -1,0 +1,49 @@
+[29-Apr-2024 06:03:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mit/public_html/youstable/domain-registration.php on line 340
+[29-Apr-2024 06:54:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function localAPI() in /home/mit/public_html/youstable/dm.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/mit/public_html/youstable/dm.php on line 30
+[29-Apr-2024 07:00:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function localAPI() in /home/mit/public_html/youstable/dm.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/mit/public_html/youstable/dm.php on line 29
+[29-Apr-2024 07:01:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function localAPI() in /home/mit/public_html/youstable/dm.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/mit/public_html/youstable/dm.php on line 29
+[29-Apr-2024 07:03:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function localAPI() in /home/mit/public_html/youstable/dm.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/mit/public_html/youstable/dm.php on line 42
+[29-Apr-2024 07:37:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function var_dumb() in /home/mit/public_html/youstable/dm.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/mit/public_html/youstable/dm.php on line 21
+[03-May-2024 06:19:33 UTC] PHP Warning:  include(meta_data.php): Failed to open stream: No such file or directory in /home/mit/public_html/youstable/inc/header.php on line 3
+[03-May-2024 06:19:33 UTC] PHP Warning:  include(): Failed opening 'meta_data.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/mit/public_html/youstable/inc/header.php on line 3
+[03-May-2024 06:19:33 UTC] PHP Warning:  Undefined variable $meta_data in /home/mit/public_html/youstable/inc/header.php on line 22
+[03-May-2024 06:19:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mit/public_html/youstable/inc/header.php on line 22
+[03-May-2024 06:19:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mit/public_html/youstable/inc/header.php on line 22
+[03-May-2024 06:19:33 UTC] PHP Warning:  Undefined variable $meta_data in /home/mit/public_html/youstable/inc/header.php on line 23
+[03-May-2024 06:19:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mit/public_html/youstable/inc/header.php on line 23
+[03-May-2024 06:19:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mit/public_html/youstable/inc/header.php on line 23
+[03-May-2024 06:19:33 UTC] PHP Warning:  Undefined variable $meta_data in /home/mit/public_html/youstable/inc/header.php on line 24
+[03-May-2024 06:19:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mit/public_html/youstable/inc/header.php on line 24
+[03-May-2024 06:19:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mit/public_html/youstable/inc/header.php on line 24
+[03-May-2024 06:23:59 UTC] PHP Warning:  Undefined array key "keywords" in /home/mit/public_html/youstable/inc/header.php on line 23
+[03-May-2024 06:24:02 UTC] PHP Warning:  Undefined array key "keywords" in /home/mit/public_html/youstable/inc/header.php on line 23
+[03-May-2024 06:24:15 UTC] PHP Warning:  Undefined array key "title" in /home/mit/public_html/youstable/inc/header.php on line 22
+[03-May-2024 06:24:15 UTC] PHP Warning:  Undefined array key "keywords" in /home/mit/public_html/youstable/inc/header.php on line 23
+[03-May-2024 06:24:15 UTC] PHP Warning:  Undefined array key "description" in /home/mit/public_html/youstable/inc/header.php on line 24
+[03-May-2024 06:44:10 UTC] PHP Warning:  Undefined array key "Career" in /home/mit/public_html/youstable/inc/header.php on line 22
+[03-May-2024 06:44:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mit/public_html/youstable/inc/header.php on line 22
+[03-May-2024 06:44:10 UTC] PHP Warning:  Undefined array key "Career" in /home/mit/public_html/youstable/inc/header.php on line 23
+[03-May-2024 06:44:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mit/public_html/youstable/inc/header.php on line 23
+[03-May-2024 06:44:10 UTC] PHP Warning:  Undefined array key "Career" in /home/mit/public_html/youstable/inc/header.php on line 24
+[03-May-2024 06:44:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mit/public_html/youstable/inc/header.php on line 24
+[03-May-2024 06:53:44 UTC] PHP Warning:  Undefined array key "Wordpress Hosting" in /home/mit/public_html/youstable/inc/header.php on line 22
+[03-May-2024 06:53:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mit/public_html/youstable/inc/header.php on line 22
+[03-May-2024 06:53:44 UTC] PHP Warning:  Undefined array key "Wordpress Hosting" in /home/mit/public_html/youstable/inc/header.php on line 23
+[03-May-2024 06:53:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mit/public_html/youstable/inc/header.php on line 23
+[03-May-2024 06:53:44 UTC] PHP Warning:  Undefined array key "Wordpress Hosting" in /home/mit/public_html/youstable/inc/header.php on line 24
+[03-May-2024 06:53:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mit/public_html/youstable/inc/header.php on line 24
